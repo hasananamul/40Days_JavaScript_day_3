@@ -57,7 +57,7 @@ x -= 5 ; x = x - 5 (5)
 x *= 5 ; x = x * 5 (25)
 x /= 5 ; x = x / 5 (5)
 
-## 3. Pomparison Operator:
+## 3. Comparison Operator:
 console.log(0 == false) // true;
 console.log(3 == "3") // true;
 console.log(3 === "3") // false;
